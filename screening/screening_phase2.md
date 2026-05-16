@@ -1,4 +1,4 @@
-# Phase 2 Content Screening — Decision Log
+# Phase 2: Screening based on the papers' full text
 
 **Review:** Assessment Operationalisation in CBE Engineering/STEM Higher Education (2015–2026)
 
