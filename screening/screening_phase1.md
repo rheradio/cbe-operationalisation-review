@@ -1,11 +1,14 @@
-# Phase 1 TAK Screening — Decision Log
+# Phase 1: Screening based on the records' title, abstract and keywords
 
 **Review:** Assessment Operationalisation in CBE Engineering/STEM Higher Education (2015–2026)
-**Criteria applied:** `prisma/inc_exc_criteria.md`
+
 **Total records screened:** 361
+
 **PHASE2 (proceed to full-text):** 104
+
 **EXCLUDE:** 257
-**Screeners:** Rubén Héradio, Héctor Vargas (May 2026)
+
+**Screeners:** Rubén Heradio, Héctor Vargas (May 2026)
 
 ---
 
