@@ -1,12 +1,15 @@
 # Phase 2 Content Screening — Decision Log
 
 **Review:** Assessment Operationalisation in CBE Engineering/STEM Higher Education (2015–2026)
-**Criteria applied:** `prisma/inc_exc_criteria.md`
+
 **Phase 2 eligibility applied to:** 104 papers advancing from Phase 1
-**Full text obtained:** 95 (in `papers/`)
+
 **Not retrieved:** 9 (listed in `screening/non_retrieved_papers.md`)
+
 **INCLUDE (final eligible set):** 25
+
 **EXCLUDE (Phase 2):** 70
+
 **Screeners:** Rubén Héradio, Héctor Vargas (May 2026)
 
 ---
