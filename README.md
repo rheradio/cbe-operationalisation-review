@@ -17,9 +17,10 @@ PRISMA 2020 study selection process.
 Engineering and STEM higher education programmes increasingly ground their
 curricula in Competency-Based Education (CBE): a pedagogical approach in which
 declared competencies drive assessment design rather than mere course completion.
-A critical, underexamined question is *operationalisation* — how a declared
-competency is translated into observable criteria, graded assessment activities,
-and a defensible competency verdict.
+A critical, underexamined question is *operationalisation*:
+
+*How a declared competency is translated into observable criteria, graded assessment activities,
+and a defensible competency verdict?*
 
 This systematic review (Scopus + Web of Science, 2015–2026, PRISMA 2020) answers
 that question by synthesising 25 eligible studies on a seven-dimension coding
@@ -183,19 +184,4 @@ the rationale alone.
    with `non_retrieved_papers.md` for the 9 that could not be accessed.
 5. **Apply Phase 2 criteria** (I1–I5, E1–E10) to full texts; compare with
    `screening_phase2.md`.
-
----
-
-## Citation
-
-If you use these artifacts in your own research, please cite the review paper
-(full reference above) and this repository.
-
----
-
-## License
-
-The screening logs and record data in this repository are released under
-[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
-Raw database exports (`.ris` files) are subject to Scopus and Web of Science
 terms of use; they are archived here solely for replication purposes.
