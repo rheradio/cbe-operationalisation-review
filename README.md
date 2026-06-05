@@ -2,7 +2,7 @@
 
 Replication data for the systematic review:
 
-> Heradio, R., & Vargas, H. (2026). *From Declared Competency to Graded Assessment:
+> Heradio, R.; Vargas, H.; Alvarez, M;  Nuñez J.; San Martin, C.; Muñoz, R. (2026). *From Declared Competency to Graded Assessment:
 > A Systematic Review of Operationalisation in Engineering and STEM Higher Education.*
 > Journal of Engineering Education. (under review)
 
